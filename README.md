@@ -1,7 +1,9 @@
 # note-taking-app
 
 To run the app, clone the repository and then run the following command in your terminal:
-``` node notes.js [command] <args> ```
+``` 
+node notes.js [command] <args> 
+```
   
 ## Commands and their respective arguments:
   - add: Add a new note to the list with title and body.
